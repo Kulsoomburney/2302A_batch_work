@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persondata>
+<user id="1">
+<fname>wasif</fname>
+<email>wasif@gmail.com</email>
+</user>
+
+<user id="2">
+<fname>name</fname>
+<email>name@gmail.com</email>
+</user>
+
+<user id="3">
+<fname>kashif</fname>
+<email>kashif@gmail.com</email>
+</user>
+
+<user id="4">
+<fname>rabail</fname>
+<email>rabial@gmail.com</email>
+</user>
+</persondata>
